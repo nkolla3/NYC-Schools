@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYC High Schools</string>
+    <string name="reading_score">SAT Average critical reading score =\u0020</string>
+    <string name="writing_score">SAT Average writing score =\u0020</string>
+    <string name="math_score">SAT Average Math score =\u0020</string>
+    <string name="number_ofTest_takers">Number of SAT test takers =\u0020</string>
+    <string name="no_scores_text">Currently no scores available for this school. please check back later</string>
+</resources>
